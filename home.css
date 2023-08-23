@@ -1,0 +1,53 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.w{
+    font-variant: small-caps;
+    font-size: 24px;
+}
+.jp{
+    color: blue;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 24px;
+}
+.home{
+    text-decoration: none;
+    background-color: blue;
+    color: aliceblue;
+}
+.smk{
+    color: blue;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.Lorem{
+    line-height: 34px;
+}
+.Akl{
+    background-color: rgb(152, 152, 250);
+    color: rgb(25, 0, 255);
+    line-height: 35px;
+}
+.GTK{
+    background-color: rgb(228, 170, 213);
+    color: rgb(255, 0, 221);
+    line-height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+.Peserta{
+    background-color: rgb(196, 250, 152);
+    color: rgb(21, 255, 0);
+    line-height: 35px;
+}
+
+.copy{
+    text-align: center;
+}
+.name{
+    color: blue;
+}
+.stat{
+    font-family: none;
+}
